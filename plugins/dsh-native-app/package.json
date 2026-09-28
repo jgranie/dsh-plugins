@@ -1,0 +1,11 @@
+{
+  "name": "dsh-native-app",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "./src/index.js",
+  "dependencies": {
+    "dsh-acceptance-gate-prototype": "file:../dsh-acceptance-gate-prototype"
+  },
+  "license": "MIT"
+}

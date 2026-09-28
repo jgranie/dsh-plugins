@@ -1,0 +1,13 @@
+{
+  "name": "dsh-acceptance-gate-prototype",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js",
+    "./core": "./src/core.js",
+    "./evidence": "./src/evidence.js"
+  },
+  "license": "MIT"
+}
